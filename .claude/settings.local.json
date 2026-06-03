@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "PowerShell(pip *)",
-      "PowerShell(New-Item *)"
+      "PowerShell(New-Item *)",
+      "WebFetch(domain:web-production-7bc05.up.railway.app)"
     ]
   }
 }
